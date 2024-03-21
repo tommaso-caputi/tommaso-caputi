@@ -4,12 +4,14 @@ I am a software engineer student at [Politecnico di Bari](https://www.poliba.it/
 
 - 🌐 Visit my [portfolio website](https://tommasocaputi.altervista.org/portfolio/) for more information and to get in touch.
 ---
+
 ```
 npx tommasocaputi
 ```
 <p align="center">
 <img alt="screenshot" src="https://github.com/tommaso-caputi/tommaso-caputi/blob/main/assets/screenshot.png" />
 </p>
+
 ---
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
