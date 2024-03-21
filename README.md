@@ -9,7 +9,7 @@ I am a software engineer student at [Politecnico di Bari](https://www.poliba.it/
 npx tommasocaputi
 ```
 <p align="center">
-<img alt="screenshot" src="https://github.com/tommaso-caputi/tommaso-caputi/blob/main/assets/screenshot.png" />
+<img alt="screenshot" src="https://github.com/tommaso-caputi/tommaso-caputi/blob/main/assets/screenshot.png" width="70%" height="70%" />
 </p>
 
 ---
