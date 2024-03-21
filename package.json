@@ -16,6 +16,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tommaso-caputi/tommaso-caputi"
+  },
+  "homepage": "https://github.com/tommaso-caputi",
   "author": "Tommaso Caputi",
   "license": "ISC",
   "bin": {
