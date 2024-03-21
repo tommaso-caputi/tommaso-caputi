@@ -11,6 +11,7 @@ npx tommasocaputi
 <img alt="screenshot" src="https://github.com/tommaso-caputi/tommaso-caputi/blob/main/assets/screenshot.png" width="70%" height="70%" />
 </p>
 
+<!--
 ---
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
@@ -35,3 +36,4 @@ npx tommasocaputi
     <img src="https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
   </a>
 </p>
+-->
