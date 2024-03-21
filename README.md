@@ -3,6 +3,11 @@
 I am a software engineer student at [Politecnico di Bari](https://www.poliba.it/).
 
 - 🌐 Visit my [portfolio website](https://tommasocaputi.altervista.org/portfolio/) for more information and to get in touch.
+---
+```
+npx tommasocaputi
+```
+[comment]: <img alt="screenshot" src="https://github.com/" />
 
 ---
 <p align="center">
