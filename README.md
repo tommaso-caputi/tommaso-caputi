@@ -1,13 +1,16 @@
 
-# Hi 👋 I am Tommaso! 
+# Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="hi"> I am Tommaso! 
 I am a software engineer student at [Politecnico di Bari](https://www.poliba.it/).
 
 - 🌐 Visit my [portfolio website](https://tommasocaputi.altervista.org/portfolio/) for more information and to get in touch.
 ---
+
 ```
 npx tommasocaputi
 ```
-<img alt="screenshot" src="https://github.com/tommaso-caputi/tommaso-caputi/assets/screenshot.png" />
+<p align="center">
+<img alt="screenshot" src="https://github.com/tommaso-caputi/tommaso-caputi/blob/main/assets/screenshot.png" />
+</p>
 
 ---
 <p align="center">
