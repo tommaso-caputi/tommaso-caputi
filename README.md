@@ -3,7 +3,7 @@
 I am a software engineer student at [Politecnico di Bari](https://www.poliba.it/).
 
 ---
-More a about me on my [portfolio website](https://tommasocaputi.altervista.org/portfolio/) or using npm
+More a about me on my [portfolio website](tommasocaputi.com) or using npm
 ```
 npx tommasocaputi
 ```
