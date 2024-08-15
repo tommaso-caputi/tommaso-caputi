@@ -7,9 +7,9 @@ More a about me on my [portfolio website](http://tommasocaputi.com) or using npx
 ```
 npx tommasocaputi
 ```
-<p align="center">
+<!-- <p align="center">
 <img alt="screenshot" src="https://github.com/tommaso-caputi/tommaso-caputi/blob/main/assets/screenshot.png" width="70%" height="70%" />
-</p>
+</p> -->
 
 <!--
 ---
